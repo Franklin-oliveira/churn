@@ -5,9 +5,7 @@
 * [Franklin Oliveira](https://www.github.com/Franklin-oliveira)
 
 ## Base de dados
-<!-- * https://www.kaggle.com/mlg-ulb/creditcardfraud -->
-* https://www.kaggle.com/c/ieee-fraud-detection/data
-    * data definition: https://www.kaggle.com/c/ieee-fraud-detection/discussion/101203
+* https://www.kaggle.com/blastchar/telco-customer-churn
 
 ## Introdução
 <!-- Além da métrica de score a ser definida, diversas outras medidas são importantes para o processo decisório

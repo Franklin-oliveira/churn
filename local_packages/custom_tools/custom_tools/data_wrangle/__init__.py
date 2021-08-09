@@ -1,1 +1,1 @@
-from custom_tools.data_wrangle import sampling
+from custom_tools.data_wrangle.sampling import get_sample

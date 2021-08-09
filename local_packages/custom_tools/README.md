@@ -21,6 +21,21 @@ pip install -e .
 
 > **p.s.:** make sure you run this command in your terminal instance inside the same folder as the `setup.py` file. 
 
+### Dependencies
+
+This module depends on other Python packages. Some of them are listed below:
+
+```bash
+numpy - pandas - scipy - sklearn
+```
+
+The full list of dependencies necessary to recreate the python environment can be found on `requirements.txt` file. All necessary libraries will be installed during the `custom_tools` instalation process, via `setup.py`.
+
+Although, they can also be installed by running the following command:
+
+```bash
+pip install -r requirements.txt
+```
 
 ## Demo
 

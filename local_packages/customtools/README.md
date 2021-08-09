@@ -1,4 +1,4 @@
-# custom_tools
+# customtools
 
 A python local module containing blocks of reusable code (in form of custom pre-built functions/classes) to be used on multiple steps of Machine Learning pipelines, from data cleansing, sampling and validation to constructing custom models pipelines and visualizations. 
 
@@ -13,7 +13,7 @@ A python local module containing blocks of reusable code (in form of custom pre-
 
 ## Instalation
 
-To use all of its functionalities into your scripts/notebooks anywhere across your Operating System, first you're gonna need to install the `custom_tools` package in editable mode by running the following command:
+To use all of its functionalities into your scripts/notebooks anywhere across your Operating System, first you're gonna need to install the `customtools` package in editable mode by running the following command:
 
 ```bash
 pip install -e .
@@ -29,7 +29,7 @@ This module depends on other Python packages. Some of them are listed below:
 numpy - pandas - scipy - sklearn
 ```
 
-The full list of dependencies necessary to recreate the python environment can be found on `requirements.txt` file. All necessary libraries will be installed during the `custom_tools` instalation process, via `setup.py`.
+The full list of dependencies necessary to recreate the python environment can be found on `requirements.txt` file. All necessary libraries will be installed during the `customtools` instalation process, via `setup.py`.
 
 Although, they can also be installed by running the following command:
 

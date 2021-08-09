@@ -1,5 +1,5 @@
 notebooks/.ipynb_checkpoints/*
 local_packages/customtools/customtools.egg-info/*
 local_packages/customtools/customtools/__pycache__/*
-local_packages/customtools/customtools/data_wrangle/__pycache__/*
+local_packages/customtools/customtools/*/__pycache__/*
 

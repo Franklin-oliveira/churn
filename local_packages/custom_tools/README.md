@@ -10,12 +10,12 @@ To use all of its functionalities into your scripts/notebooks anywhere across yo
 pip install -e .
 ```
 
-> **p.s.:** make sure you run this command in your terminal instance in the same folder as the `setup.py` file. 
+> **p.s.:** make sure you run this command in your terminal instance inside the same folder as the `setup.py` file. 
 
 ## submodules list
 
-- **data_tools**: contains custom built functions
-- **eda_tools**: has custom functions/classes useful for Exploratory Data Analysis.
+- **data_wrangle**: contains customly built functionalities for data manipulation and validation.
+- **eda**: has custom functions/classes useful for Exploratory Data Analysis.
 
 ## Authors
 * [Marcelo B. Barata Ribeiro](https://www.linkedin.com/in/marcelobarataribeiro/)
